@@ -1,9 +1,9 @@
 <img width="2337" height="1770" alt="Screenshot_2" src="https://github.com/user-attachments/assets/16e950a9-b4c3-40fb-9b9b-349692b96b35" />
 Star Schema - ERD
-
+<br>
 <img width="2683" height="379" alt="veterinaria_ERD" src="https://github.com/user-attachments/assets/c7bc4faf-20b0-44f2-a1f8-cf5c09c2ceca" />
 Base ERD
-
+<br>
 <pre>
 
                           ;!;,                     ;!;
