@@ -6,7 +6,6 @@ Base ERD
 <br>
 
 <pre>
-  ```
 
                           ;!;,                     ;!;
                           ;!!!!,                   !!!!
@@ -65,5 +64,5 @@ MMP,MMMMMP,dMMMMMMMMML<!!!''',,unnnn= =nnnnn,,,`''!!'dMMMMMMMMMMMMMMM'MM;
    4MMMM:MMMMMMMMMMMMP"                              `""TTTMMTTTT"
     "TMM 4MMMMMMMMP"
            `"""
-```
+
 <\pre>
