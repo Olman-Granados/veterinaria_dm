@@ -4,7 +4,9 @@ Star Schema - ERD
 <img width="2683" height="379" alt="veterinaria_ERD" src="https://github.com/user-attachments/assets/c7bc4faf-20b0-44f2-a1f8-cf5c09c2ceca" />
 Base ERD
 <br>
-<p>
+
+<pre>
+  ```
 
                           ;!;,                     ;!;
                           ;!!!!,                   !!!!
@@ -63,4 +65,5 @@ MMP,MMMMMP,dMMMMMMMMML<!!!''',,unnnn= =nnnnn,,,`''!!'dMMMMMMMMMMMMMMM'MM;
    4MMMM:MMMMMMMMMMMMP"                              `""TTTMMTTTT"
     "TMM 4MMMMMMMMP"
            `"""
-<\p>
+```
+<\pre>
